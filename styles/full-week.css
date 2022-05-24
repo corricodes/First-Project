@@ -1,0 +1,79 @@
+body {
+  margin: 50px;
+}
+
+header {
+  margin: 64px;
+}
+
+img {
+  border: 5px solid rgb(0, 0, 0);
+  box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.3);
+  border-radius: 50px;
+  height: 400px;
+  width: 598px;
+}
+
+h1 {
+  color: rgb(71, 62, 62);
+  font-family: "Oswald", sans-serif;
+  font-size: 48px;
+  margin: 0;
+}
+
+#description {
+  margin: 12px 0;
+}
+
+/* header p {
+  margin-bottom: 36px;
+} */
+
+a {
+  background-color: rgb(167, 1, 78);
+  border: 1px solid rgb(167, 1, 78);
+  border-radius: 4px;
+  box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.3);
+  color: white;
+  display: inline-block;
+  font-family: "Fira sans", sans-serif;
+  font-size: 24px;
+  margin: 0;
+  padding: 12px 48px;
+}
+
+a:hover {
+  background-color: rgb(180, 12, 90);
+  text-decoration: none;
+}
+
+h2 {
+  color: rgb(78, 13, 5);
+  font-family: "Oswald", sans-serif;
+}
+
+main p {
+  color: rgb(71, 29, 22);
+  margin: 12px;
+}
+
+.highlight-goal {
+  background-color: rgb(226, 115, 101);
+}
+
+ol {
+  list-style: none;
+  margin: 36px auto 0 auto;
+  padding: 0;
+  width: 500px;
+}
+
+li {
+  background-color: rgb(233, 136, 124);
+  border-radius: 6px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+  color: rgb(83, 75, 75);
+  font-family: "Fira sans", sans-serif;
+  margin: 32px;
+  padding: 16px;
+}
